@@ -18,7 +18,7 @@ GoScribe is a minimal pub-sub broker written in pure golang.
 Note : HOST and PORT are optional. Defaults to 0.0.0.0 and 8090 
 
 ## Demo using telnet
-![demo.gif](https://s9.gifyu.com/images/Screen-Recording-2023-01-28-at-3.15.12-PM.gif)
+![demo.gif](./GIFS/A.gif)
 
 ## Gotcha's
 GoScribe is a very simple broker. Think of it as a chat room server but for pub-sub. It does not provide any message persistance or queueing for now. What is not recieved by the subscribers is lost for ever!
