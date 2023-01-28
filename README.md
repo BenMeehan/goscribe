@@ -10,7 +10,7 @@ GoScribe is a minimal pub-sub broker written in pure golang.
 
 ## How to run
 1. clone this repo 
-    `git clone `
+    `git clone https://github.com/BenMeehan/goscribe.git`
 2. cd into the cloned directory
 3. run `go build`
 4. run the resultant binary `./goscribe [-h HOST] [-p PORT]` 

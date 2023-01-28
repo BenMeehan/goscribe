@@ -1,3 +1,3 @@
-module github.com/benmeehan111/goscribe
+module github.com/benmeehan/goscribe
 
 go 1.19
